@@ -1,0 +1,67 @@
+@media (max-width:600px) {
+
+
+    .items{
+        display: none;
+    }
+
+    .ri-menu-fill{
+        display: block;
+        margin-right: 2%;
+    }
+
+    .sib{
+        padding: 1px 10px;
+        margin-right: -4%;
+    }
+
+    .lgb{
+        padding: 1px 10px;
+        margin-right: -5%;
+    }
+
+    .logo img{
+        height: 45px;
+    }
+
+    h2{
+        font-size: 15px;
+        margin-left: -7%;
+    }
+
+    .box{
+        height: 350px;
+        width: 300px;
+        margin-left: 10%;
+        margin-top: 40%;
+    }
+
+    .box img{
+        height: 40px;
+        margin-top: 10%;
+        margin-left: 35%;
+    }
+
+    h1{
+        font-size: 20px;
+        margin-left: 25%;
+    }
+
+    .fn{
+        font-size: 15px;
+        margin-top: 12%;
+        margin-left: 15%;
+    }
+
+    .ea{
+        font-size: 15px;
+        margin-left: 15%;
+    }
+
+    .sb{
+        padding: 5px 15px;
+        margin-top: 20%;
+    }
+
+    
+}
